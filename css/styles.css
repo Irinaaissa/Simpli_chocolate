@@ -7,4 +7,5 @@
 @import "./base/container.css";
 @import "./base/section.css";
 /* layout */
-@import "./layout/header.css"
+@import "./layout/header.css";
+@import "./layout/hero.css";
