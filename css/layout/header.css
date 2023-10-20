@@ -40,7 +40,7 @@
     .mobile-menu-close-icon {
         stroke: var(--secondary-color);
     }
-}
+
 
 .page-header {
     padding-top: 20px;
@@ -48,6 +48,7 @@
 }
 
 .page-header-container {
+    
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -85,6 +86,7 @@
 
 .open-mobile-menu-icon {
     transition: stroke 250ms ease-out;
+}
 }
 
 @media screen and (min-width: 768px) {
